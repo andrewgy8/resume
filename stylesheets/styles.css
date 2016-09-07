@@ -322,7 +322,13 @@ footer {
     color:#444;
   }
 }
-.devicon-angularjs-plain {
+.devicon-angularjs-plain, 
+.devicon-python-plain-wordmark, 
+.devicon-rails-plain-wordmark, 
+.devicon-html5-plain-wordmark,
+.devicon-css3-plain-wordmark,
+.devicon-nodejs-plain-wordmark,
+.devicon-photoshop-line {
   font-size: 5em;
 }
 
