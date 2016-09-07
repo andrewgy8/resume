@@ -322,12 +322,12 @@ footer {
     color:#444;
   }
 }
-.devicon-git-plain {
+.devicon-angularjs-plain {
   max-width: 2em;
 }
 
 /* if you want to change the original color */
-.devicon-git-plain path {
+.devicon-angularjs-plain path {
   fill: #4691f6;
 }
 /*.indie-dev-icons {
